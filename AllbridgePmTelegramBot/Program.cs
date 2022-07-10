@@ -51,7 +51,7 @@ namespace TelegramBotExperiments
                 receiverOptions,
                 cancellationToken
             );
-            Console.ReadLine();
+          //  Console.ReadLine();
         }
     }
 }
