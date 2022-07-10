@@ -1,0 +1,9 @@
+/Users/fellisatrox/Downloads/build/AllbridgePmTelegramBot
+/Users/fellisatrox/Downloads/build/AllbridgePmTelegramBot.dll
+/Users/fellisatrox/Downloads/build/AllbridgePmTelegramBot.deps.json
+/Users/fellisatrox/Downloads/build/AllbridgePmTelegramBot.runtimeconfig.json
+/Users/fellisatrox/Downloads/build/AllbridgePmTelegramBot.pdb
+/Users/fellisatrox/Downloads/build/Newtonsoft.Json.dll
+/Users/fellisatrox/Downloads/build/System.Threading.Channels.dll
+/Users/fellisatrox/Downloads/build/Telegram.Bot.dll
+/Users/fellisatrox/Downloads/build/Telegram.Bot.Extensions.Polling.dll

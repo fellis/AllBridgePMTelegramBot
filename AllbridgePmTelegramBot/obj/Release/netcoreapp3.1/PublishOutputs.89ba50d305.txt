@@ -1,0 +1,9 @@
+/Users/fellisatrox/Projects/AllbridgePmTelegramBot/AllbridgePmTelegramBot/bin/Release/netcoreapp3.1/publish/AllbridgePmTelegramBot
+/Users/fellisatrox/Projects/AllbridgePmTelegramBot/AllbridgePmTelegramBot/bin/Release/netcoreapp3.1/publish/AllbridgePmTelegramBot.dll
+/Users/fellisatrox/Projects/AllbridgePmTelegramBot/AllbridgePmTelegramBot/bin/Release/netcoreapp3.1/publish/AllbridgePmTelegramBot.deps.json
+/Users/fellisatrox/Projects/AllbridgePmTelegramBot/AllbridgePmTelegramBot/bin/Release/netcoreapp3.1/publish/AllbridgePmTelegramBot.runtimeconfig.json
+/Users/fellisatrox/Projects/AllbridgePmTelegramBot/AllbridgePmTelegramBot/bin/Release/netcoreapp3.1/publish/AllbridgePmTelegramBot.pdb
+/Users/fellisatrox/Projects/AllbridgePmTelegramBot/AllbridgePmTelegramBot/bin/Release/netcoreapp3.1/publish/Newtonsoft.Json.dll
+/Users/fellisatrox/Projects/AllbridgePmTelegramBot/AllbridgePmTelegramBot/bin/Release/netcoreapp3.1/publish/System.Threading.Channels.dll
+/Users/fellisatrox/Projects/AllbridgePmTelegramBot/AllbridgePmTelegramBot/bin/Release/netcoreapp3.1/publish/Telegram.Bot.dll
+/Users/fellisatrox/Projects/AllbridgePmTelegramBot/AllbridgePmTelegramBot/bin/Release/netcoreapp3.1/publish/Telegram.Bot.Extensions.Polling.dll
